@@ -1,0 +1,16 @@
+{
+  "name": "amreshsharma007/invoid-php",
+  "description": "A PHP library for Invoid Services",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Amresh Kumar Sharma",
+      "email": "amreshsharma007@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "phpunit/phpunit": "^9.5",
+    "guzzlehttp/guzzle": "^7.3"
+  }
+}
